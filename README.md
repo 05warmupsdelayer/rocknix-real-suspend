@@ -1,4 +1,4 @@
-# Rocknix Real Suspend Manager for RG35XXSP
+# Rocknix Real Suspend Manager for Anbernic RG35XXSP
 
 A simple install/uninstall script to manage real suspend (`echo mem > /sys/power/state`) on Anbernic RG35XXSP devices.
 
